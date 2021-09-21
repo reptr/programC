@@ -43,4 +43,4 @@ Hasil compile & running program:
 ![screenshoot runC++](./screenshoot/SampleSSC++Compile.PNG)
 
 ## License
-MIT &copy; 2021 reptr
+MIT &copy; 2021
